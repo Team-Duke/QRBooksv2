@@ -30,6 +30,7 @@
             android:background="@android:color/transparent"
             android:text="@string/borrow_button_text"
             android:textColor="@color/theme_accent_light"
+            android:onClick="Access_camera"
             />
     </android.support.v7.widget.CardView>
 

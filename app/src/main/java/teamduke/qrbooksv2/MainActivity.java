@@ -3,9 +3,16 @@ package teamduke.qrbooksv2;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.Environment;
+import android.provider.MediaStore;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+
+import java.io.File;
+import java.net.URI;
+import java.util.Date;
 
 
 public class MainActivity extends Activity {
@@ -25,4 +32,5 @@ public class MainActivity extends Activity {
         startActivityForResult(getBookActivity, result);
 
     }
+
 }
