@@ -43,10 +43,11 @@
 
         <TextView
             style="@style/Card_text_Book"
-            android:text="Title"/>
+            android:text="@string/Book_Title"/>
 
         <Button
-            style="@style/Card_Button_Book" />
+            style="@style/Card_Button_Book"
+            android:onClick="Book_Activity"/>
 
     </android.support.v7.widget.CardView>
 
