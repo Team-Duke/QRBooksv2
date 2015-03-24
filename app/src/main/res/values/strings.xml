@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QR Books</string>
+
+    <string name="borrow_button_text">borrow</string>
+    <string name="title_activity_book">BookActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Button_Renew">Renew</string>
+</resources>
