@@ -8,4 +8,7 @@
     <string name="action_settings">Settings</string>
     <string name="Button_Renew">Renew</string>
     <string name="Book_Title">Title</string>
+    <string name="result_succeeded">success</string>
+    <string name="result_failed">failed</string>
+    <string name="result_failed_why">who knows</string>
 </resources>

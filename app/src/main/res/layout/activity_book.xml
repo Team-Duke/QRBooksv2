@@ -42,7 +42,8 @@
         android:layout_marginRight="20dp"
         android:text="@string/Button_Renew"
         android:textColor="@color/theme_accent_light"
-        android:background="@android:color/transparent"/>
+        android:background="@android:color/transparent"
+        />
 
 
 

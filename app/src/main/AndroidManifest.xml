@@ -22,4 +22,7 @@
         </activity>
     </application>
 
+
+    1
+    <uses-feature android:name="android.hardware.camera" />
 </manifest>
